@@ -1,4 +1,4 @@
-# Basic FIFO - V2
+# Synchronous FIFO - V2
 
 ## Overview
 This project implements a parameterized synchronous FIFO in SystemVerilog with support for simultaneous read and write operations.
