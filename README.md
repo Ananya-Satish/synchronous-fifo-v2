@@ -104,6 +104,7 @@ The output order confirms correct FIFO behavior.
 
 ## Files
 ```
+block_diagram.png
 fifov2.sv      // FIFO RTL
 fifov2_tb.sv   // Testbench with assertions
 fifo_v2_simulation.png   // Simulation waveform
